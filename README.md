@@ -13,7 +13,7 @@
   
 ### Images
 
-![image1](https://github.com/Ncerzzk/V3s_Quadrotor/blob/master/images/top.jpg?raw=true)
-![image2](https://github.com/Ncerzzk/V3s_Quadrotor/blob/master/images/bottom.jpg?raw=true)
+![image1](https://github.com/Ncerzzk/V3s_Quadrotor/blob/master/Images/top.jpg?raw=true)
+![image2](https://github.com/Ncerzzk/V3s_Quadrotor/blob/master/Images/bottom.jpg?raw=true)
 
-![image3](https://github.com/Ncerzzk/V3s_Quadrotor/blob/master/images/quadrotors.jpg?raw=true)
+![image3](https://github.com/Ncerzzk/V3s_Quadrotor/blob/master/Images/quadrotors.jpg?raw=true)
