@@ -353,7 +353,9 @@
     "pinned_footprint_libs": [
       "E32-900M20S_Pcblib"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ic"
+    ]
   },
   "meta": {
     "filename": "pcb_quadrotor.kicad_pro",
@@ -426,8 +428,8 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
-    "plot_directory": "",
+    "page_layout_descr_file": "empty.kicad_wks",
+    "plot_directory": "docs/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,

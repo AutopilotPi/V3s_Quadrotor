@@ -1103,6 +1103,12 @@
     (uuid fb70d5b9-7b48-4f76-a41b-7b53bf61e32b)
   )
 
+  (text "IO12(MTDI should not pull up, \nbecause it determines the voltage level of VDD_SDIO,\n1 for 1V8, 0 for 3V3)"
+    (at 220.98 97.155 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 492818cb-9695-4e4b-94ce-bd03cdedb50f)
+  )
+
   (label "SCL" (at 202.565 107.315 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 02bcbf46-2479-4892-ad9f-d2d7b0d9291e)
